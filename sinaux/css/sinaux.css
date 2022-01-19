@@ -131,6 +131,7 @@ a:last-child {
   }
 }
 .freefire {
+  padding: 0;
   height: 280px;
   position: absolute;
   margin-top: 450px;
